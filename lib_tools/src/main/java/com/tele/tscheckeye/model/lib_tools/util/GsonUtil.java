@@ -1,4 +1,4 @@
-package com.tele.tscheckeye.model.lib_tools;
+package com.tele.tscheckeye.model.lib_tools.util;
 
 import com.solidfire.gson.Gson;
 import com.solidfire.gson.JsonArray;
@@ -13,6 +13,12 @@ import java.util.Map;
 
 /**
  * Gson工具类
+ * 1，json转对象class
+ * 2，json转对象type
+ * 3，对象转json
+ * 4，json转list
+ * 5，json转map
+ * 6，
  */
 public class GsonUtil {
 
